@@ -58,3 +58,4 @@ an API to serve that data in the json format given above.
   
   We can make changes to users and their activity periods via UI if we goto the link *http://127.0.0.1:8080/admin/* as I have registered the User and ActivityPeriod models to     the admin site.
      
+< img src="https://github.com/gowthamimanchuri517/FTL-Assignment/blob/master/Images/api_results.PNG">

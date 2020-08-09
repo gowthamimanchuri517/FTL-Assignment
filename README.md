@@ -32,7 +32,9 @@ an API to serve that data in the json format given above.
     $ python manage.py migrate
     
   Follow the below heirachy of folder/file creation to create custom management commands::
-   
+  
+  https://github.com/gowthamimanchuri517/FTL-Assignment/blob/master/Images/api_results.PNG
+  
   Implement custom commands to create users. There are two files been created for two commands which can be used to add single user with specific data and to add bulk users with   dummy data. 
   Below is the command **adduser** followed by *id* *real_name* *tz* and the argument *--start_time* followed by one/more values of it and the argument *--end_time*               followed by one/more values of it which is to be used for to create single user ::
   
@@ -54,8 +56,10 @@ an API to serve that data in the json format given above.
   
     $ python manage.py runserver http://127.0.0.1:8080
   
-  If we open the URL in browser and go to *http://127.0.0.1:8080/api/* It'll asks for username and password which has been given in prior step. Once authenticated It'll display   the list of users in the browser as like in the given json format. 
+  If we open the URL in browser and go to *http://127.0.0.1:8080/api/* It'll asks for username and password which has been given in prior step. Once authenticated It'll display   the list of users in the browser as like in the given json format.Below are the sample API results
+  
+  https://github.com/gowthamimanchuri517/FTL-Assignment/blob/master/Images/api_results.PNG
   
   We can make changes to users and their activity periods via UI if we goto the link *http://127.0.0.1:8080/admin/* as I have registered the User and ActivityPeriod models to     the admin site.
      
-< img src="https://github.com/gowthamimanchuri517/FTL-Assignment/blob/master/Images/api_results.PNG">
+

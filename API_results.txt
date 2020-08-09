@@ -1,0 +1,135 @@
+{
+    "ok": true,
+    "members": [
+        {
+            "id": "W012A3CDE",
+            "real_name": "Egon_Spengler",
+            "tz": "America/Los_Angeles",
+            "activity_periods": [
+                {
+                    "start_time": "Feb-1-2020-5:33PM",
+                    "end_time": "Feb-1-2020-5:33PM"
+                },
+                {
+                    "start_time": "Mar-1-2020-5:33PM",
+                    "end_time": "Mar-1-2020-5:33PM"
+                },
+                {
+                    "start_time": "Apr-1-2020-5:33PM",
+                    "end_time": "Apr-1-2020-5:33PM"
+                }
+            ]
+        },
+        {
+            "id": "W07QCRPA4",
+            "real_name": "Glinda_Southgood",
+            "tz": "Asia/Kolkata",
+            "activity_periods": [
+                {
+                    "start_time": "Feb-1-2020-5:33PM",
+                    "end_time": "Feb-1-2020-5:33PM"
+                },
+                {
+                    "start_time": "Mar-1-2020-5:33PM",
+                    "end_time": "Mar-1-2020-5:33PM"
+                },
+                {
+                    "start_time": "Apr-1-2020-5:33PM",
+                    "end_time": "Apr-1-2020-5:33PM"
+                }
+            ]
+        },
+        {
+            "id": "W07QCRPA0",
+            "real_name": "dummyuser0",
+            "tz": "dummytz0",
+            "activity_periods": [
+                {
+                    "start_time": "Sun Aug  9 04:04:53 2020",
+                    "end_time": "Sun Aug  9 04:04:53 2020"
+                },
+                {
+                    "start_time": "Sun Aug  9 04:06:41 2020",
+                    "end_time": "Sun Aug  9 04:06:41 2020"
+                }
+            ]
+        },
+        {
+            "id": "W07QCRPA26",
+            "real_name": "dummyuser6",
+            "tz": "dummytz6",
+            "activity_periods": [
+                {
+                    "start_time": "Sun Aug  9 04:07:17 2020",
+                    "end_time": "Sun Aug  9 04:07:17 2020"
+                }
+            ]
+        },
+        {
+            "id": "W07QCRPA27",
+            "real_name": "dummyuser7",
+            "tz": "dummytz7",
+            "activity_periods": [
+                {
+                    "start_time": "Sun Aug  9 04:07:18 2020",
+                    "end_time": "Sun Aug  9 04:07:18 2020"
+                }
+            ]
+        },
+        {
+            "id": "W07QCRPA28",
+            "real_name": "dummyuser8",
+            "tz": "dummytz8",
+            "activity_periods": [
+                {
+                    "start_time": "Sun Aug  9 04:07:33 2020",
+                    "end_time": "Sun Aug  9 04:07:33 2020"
+                }
+            ]
+        },
+        {
+            "id": "W07QCRPA29",
+            "real_name": "dummyuser9",
+            "tz": "dummytz9",
+            "activity_periods": [
+                {
+                    "start_time": "Sun Aug  9 04:07:33 2020",
+                    "end_time": "Sun Aug  9 04:07:33 2020"
+                }
+            ]
+        },
+        {
+            "id": "W07QCRPA210",
+            "real_name": "dummyuser10",
+            "tz": "dummytz10",
+            "activity_periods": [
+                {
+                    "start_time": "Sun Aug  9 04:07:56 2020",
+                    "end_time": "Sun Aug  9 04:07:56 2020"
+                }
+            ]
+        },
+        {
+            "id": "W07QCRPA211",
+            "real_name": "dummyuser11",
+            "tz": "dummytz11",
+            "activity_periods": [
+                {
+                    "start_time": "Sun Aug  9 04:07:56 2020",
+                    "end_time": "Sun Aug  9 04:07:56 2020"
+                }
+            ]
+        },
+        {
+            "id": "W07QCRPA212",
+            "real_name": "dummyuser12",
+            "tz": "dummytz12",
+            "activity_periods": [
+                {
+                    "start_time": "Sun Aug  9 04:07:56 2020",
+                    "end_time": "Sun Aug  9 04:07:56 2020"
+                }
+            ]
+        }
+    ]
+}
